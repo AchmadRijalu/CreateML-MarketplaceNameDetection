@@ -51,6 +51,7 @@
 		773F70E92ACBD3EB00561B9C /* MarketplaceNameDetection */ = {
 			isa = PBXGroup;
 			children = (
+				773F70F82ACBD43C00561B9C /* MLData */,
 				773F70EA2ACBD3EB00561B9C /* MarketplaceNameDetectionApp.swift */,
 				773F70EC2ACBD3EB00561B9C /* ContentView.swift */,
 				773F70EE2ACBD3EC00561B9C /* Assets.xcassets */,
@@ -65,6 +66,13 @@
 				773F70F12ACBD3EC00561B9C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		773F70F82ACBD43C00561B9C /* MLData */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = MLData;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
